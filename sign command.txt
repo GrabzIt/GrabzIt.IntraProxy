@@ -1,0 +1,2 @@
+signtool
+"C:\Program Files (x86)\Windows Kits\10\bin\x64\signtool.exe" sign /f "C:\Apps\GrabzItIntraProxy\GrabzIt.p12" /p "P@55w0rd" $f
